@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(206, 198, 198);
+    font-family:'Poppins', sans-serif; ;
+}
+.cvsekli{
+    border: 2px solid skyblue;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url("https://www.bu.edu/files/2013/05/v2_MF-Headshot-030813.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    margin-top: 20px;
+    float:left; 
+    margin: 0 20px 10px 10px;
+}
+.cvsekli .title{
+    margin-top: 20%;
+}
+.cv{
+   display: flex;
+    margin:10px;
+    padding:10px;
+}
+.kenarxett1{
+    border-left: 4px dotted gray;
+    height: 1100px;
+    margin-top: 80px;
+}
+.kenarxett1 .istecrubesi, .proyektler{
+    margin-left: 20px;
+}
+div h2{
+color: blue;
+}
+.kenarxett2{
+    border-left: 4px dotted gray;
+    height: 1100px;
+    margin-top: 80px;
+
+}
+.kenarxett2 .Tehsil, .Diller, .IT{
+    margin-left: 20px;
+}
